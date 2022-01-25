@@ -1,8 +1,8 @@
 body
 {
     color: #333 ;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -19,6 +19,7 @@ body
     
 }
 
+
 #cabecera #tagline {
 
 padding: 0 0 0 1em ;
@@ -31,9 +32,8 @@ font-size: 0.8em;
     width: 70% ;
     padding: 1em ;
     text-align: left;
-    border: 1px solid; color: rgb(7, 6, 6);
-    margin: 0 auto ;
-    padding: 0%;
+    border: 1px solid; color: #ddd;
+    margin: 0 auto;
 }
 
 #container h1
